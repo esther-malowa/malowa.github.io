@@ -1,1 +1,6 @@
-_
+title: Malowa
+Logo: assets/images/Screenshot_20221103_090312.jpg
+show downloads: true
+remote_theme: pages-themes/minimal@V0.2.0
+plugins:
+-Jekyll-remote-theme
