@@ -1,7 +1,9 @@
 #  Data Portfolio 
 
-Thi is my portfolio website
+This is my portfolio website
 
 😄
 
 💻
+
+
