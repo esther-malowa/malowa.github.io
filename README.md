@@ -17,7 +17,7 @@ This project aims to analyze and understand the factors that influence customer 
 Restaurant dataset: The primary dataset used  for this analysis is the "Restaurant dataset.csv" 
 
 ### Tools
-- Excel - Data Cleaning. [Download here] (https://microsoft.com)
+- Excel - Data Cleaning [Download here](https://microsoft.com)
 - MySQL - Data Analysis
 - PowerBI - Creating reports
 
