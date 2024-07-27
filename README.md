@@ -18,8 +18,8 @@ Restaurant dataset: The primary dataset used  for this analysis is the "Restaura
 
 ### Tools
 - Excel - Data Cleaning [Download here](https://microsoft.com)
-- MySQL - Data Analysis
-- PowerBI - Creating reports
+- MySQL - Data Analysis [Download here](https://microsoft.com) 
+- PowerBI - Creating reports  [Download here](https://microsoft.com)
 
 
 
