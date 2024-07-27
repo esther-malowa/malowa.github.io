@@ -38,7 +38,7 @@ EDA involved exploring restaurant sales to answer key questions such as;
 
 - 	Analyze Dining Patterns
 
- ### Data Analysis
+### Data Analysis
  
  ```SQL
 select CustomerID,
