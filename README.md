@@ -40,9 +40,10 @@ EDA involved exploring restaurant sales to answer key questions such as;
 
  ### Data Analysis
  
- ```sql
+ ```SQL
 select CustomerID,
- Age,Gender,
+ Age,
+ Gender,
  Income,
  VisitFrequency,
  round(AverageSpend, 0),
