@@ -73,7 +73,12 @@ from restaurant_customer_satisfaction;
 5. Run targeted advertising campaigns featuring popular Italian dishes.
 6. Offer incentives for joining, such as a free appetizer or dessert upon sign-up.
 7. Train staff to inform and encourage customers to join the loyalty program.
-8. Celebrate member anniversaries or birthdays with special offers or discounts.  
+8. Celebrate member anniversaries or birthdays with special offers or discounts.
+
+### Limitations
+I had to remove all decimals in the AverageSpend and WaitTime columns because they would affect the accuracy of my conclusions from the analysis.
+
+
 
   
 
