@@ -65,6 +65,16 @@ from restaurant_customer_satisfaction;
 2. Italian cuisine generates more income than other preferred cuisine.
 3. The sum of loyalty program members is only seven hundred and twenty.
 
+### Recommendations
+1. Train kitchen staff on maintaining consistency.
+2. Create a comfortable and visually appealing environment.
+3. Introduce new and unique Italian dishes regularly.
+4. Offer seasonal specials and promotions focusing on Italian cuisine.
+5. Run targeted advertising campaigns featuring popular Italian dishes.
+6. Offer incentives for joining, such as a free appetizer or dessert upon sign-up.
+7. Train staff to inform and encourage customers to join the loyalty program.
+8. Celebrate member anniversaries or birthdays with special offers or discounts.  
+
   
 
 
