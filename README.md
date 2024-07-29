@@ -60,7 +60,7 @@ select CustomerID,
 from restaurant_customer_satisfaction;
 ```
 
-### Results /Findings
+### Results/Findings
 
   
 
