@@ -1,7 +1,7 @@
 #  Data Portfolio 
 
 This is my portfolio website
-😄
+
 
 ## Insights into Restaurant Customer Satisfaction Analysis
 
@@ -100,6 +100,9 @@ from restaurant_customer_satisfaction;
 
 ### Limitations
 I had to remove all decimals in the AverageSpend and WaitTime columns because they would affect the accuracy of my conclusions from the analysis.
+
+😄
+💻
 
 
 
