@@ -61,8 +61,8 @@ from restaurant_customer_satisfaction;
 ```
 
 ### Results/Findings
-1. Service rating is higher than food ambiance rating.
-2. Italian cuisine generataes more income than other prefered cuisine.
+1. Service rating is higher than food and ambiance rating.
+2. Italian cuisine generates more income than other preferred cuisine.
 3. The sum of loyalty program members is only seven hundred and twenty.
 
   
